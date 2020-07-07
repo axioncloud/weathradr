@@ -33,7 +33,7 @@
   "homepage": "https://github.com/ioncloud64/weathradr#readme",
   "devDependencies": {
     "clusterize.js": "^0.18.1",
-    "electron": "^5.0.1",
+    "electron": "^9.1.0",
     "electron-packager": "^13.1.1"
   },
   "dependencies": {
